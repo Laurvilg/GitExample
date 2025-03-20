@@ -8,6 +8,6 @@ package core;
  *
  * @author lhaur
  */
-public class dog {
+public class Dog {
     
 }
